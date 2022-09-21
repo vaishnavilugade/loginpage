@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<body>
+  <link rel="stylesheet" type="text/css" href="css/style2_login.css">
+
+
+
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutus.html">About</a></li>
+        <li><a href="#">contact</a></li>
+        <li><a href="#">services</a></li>
+        <li><a href="#">Register</a></li>
+        <li class="active"><a href="login.html"><b>Login</b></a></li>
+
+      </ul>
+      <div class="loginbox">
+      <img src="https://www.logolynx.com/images/logolynx/15/1588b3eef9f1607d259c3f334b85ffd1.png" class="chrome">
+      <h1>Login Here</h1>
+      <form>
+        <p>Username</p>
+        <input type="text" name="" placeholder="Enter Username">
+        <p>password</p>
+        <input type="password" name="" placeholder="Enter password">
+        <input type="Submit" name="" value="login">
+        <a href="#">Lost your password?</a><br>
+        <a href="#">Don't have an account?</a>
+      </form>
+    </div>
+
+
+
+</body>
+</html>
